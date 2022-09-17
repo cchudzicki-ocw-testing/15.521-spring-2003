@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "This section provides the final exam for the course, based on a case\
+  \ study of Weber\u2019s Customized Electronics."
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
